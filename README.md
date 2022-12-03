@@ -1,1 +1,1 @@
-# android-icon-512x512.png
+# android-icon-512x512.pn
